@@ -1,0 +1,11 @@
+{
+	"id": "clock-id",
+	"name": "Clock-In",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Simple Timesheets by emulating some of the features of org-mode clock-in/clock-out",
+	"author": "chpf",
+	"authorUrl": "https://github.com/chpf",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": true
+}
