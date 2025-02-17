@@ -4,10 +4,10 @@ Dead simple (as in more boilerplate that acutal code) [obsidian](https://obsidia
 
 - `clock-in`
 - `clock-out`
-- `recalculate-ours`
+- `recalculate-hours`
 
+Clocking in and out adds the following syntax to the YAML-Frontmatter of the active document. Recalculating recalculates.
 
-Clocking in and out adds the folowwing syntax to the YAML-Frontmatter of the active document. Recalculating recalculates.
 ```yaml
 ---
 LOGBOOK:
